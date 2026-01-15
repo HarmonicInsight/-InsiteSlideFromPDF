@@ -1,0 +1,13 @@
+# PDF processing
+PyMuPDF>=1.23.0
+pdfminer.six>=20221105
+
+# Image processing and OCR
+pytesseract>=0.3.10
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# PowerPoint generation
+python-pptx>=0.6.21
+
+# UI (tkinter is included in Python standard library)
